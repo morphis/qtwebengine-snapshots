@@ -1,0 +1,9 @@
+#ifndef QT_QTWEBENGINEWIDGETS_MODULE_H
+#define QT_QTWEBENGINEWIDGETS_MODULE_H
+#include <QtWebEngineWidgets/QtWebEngineWidgetsDepends>
+#include "qtwebenginewidgetsglobal.h"
+#include "qwebenginehistory.h"
+#include "qwebenginepage.h"
+#include "qwebengineview.h"
+#include "qtwebenginewidgetsversion.h"
+#endif
